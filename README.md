@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RaoulLuque
+- 👀 I’m interested in Game Theory, Mathematics, Logic, Rust
+- 🌱 I’m currently learning Rust, WASM, Game Development (using Bevy), Audio Programming and studying Mathematics at RWTH Aachen University
+- 📫 How to reach me: raoulsluque@gmail.com
+- 😄 Pronouns: He / Him
