@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaoulLuque
 - 👀 I’m interested in Graph Theory, Game Theory, Mathematics, Logic and Rust
-- 🌱 I’m currently learning Rust, WASM, Web development, Machine Learning from scratch, Audio Programming and studying Mathematics at RWTH Aachen University
+- 🌱 I’m currently developing my Rust skills, learning WASM, Web development, Machine Learning from scratch, Audio Programming and studying Mathematics at RWTH Aachen University while also being one of the maintainers of the [petgraph](https://github.com/petgraph/petgraph) crate
 - 📫 How to reach me: raoulsluque@gmail.com
 - 😄 Pronouns: He / Him
